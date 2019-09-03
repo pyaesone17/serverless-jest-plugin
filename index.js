@@ -96,6 +96,7 @@ class ServerlessJestPlugin {
               process.exit(1);
             }
             // Not sure what this is
+            // throw err;
             throw err;
           }),
       "create:function:create": () =>
