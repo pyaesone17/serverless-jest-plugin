@@ -1,6 +1,6 @@
 {
   "name": "nyan-serverless-jest-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Serverless plugin for test driven development using Jest",
   "main": "index.js",
   "author": "Nyan Win",
